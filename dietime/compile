@@ -1,0 +1,1 @@
+g++ dietime.cpp -o dietime -lalleg -I /usr/include/allegro5/ 

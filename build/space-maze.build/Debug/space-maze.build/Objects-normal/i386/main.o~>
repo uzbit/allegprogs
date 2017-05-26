@@ -1,0 +1,178 @@
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:6:20: error: allegro.h: No such file or directory
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:12:31: error: ../estring/estring.h: No such file or directory
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:13:17: error: game.h: No such file or directory
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:14:17: error: room.h: No such file or directory
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:35: error: expected constructor, destructor, or type conversion before '*' token
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:36: error: 'PALETTE' does not name a type
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:54: error: variable or field 'startlevel' declared void
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:54: error: 'ROOM' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:54: error: 'array' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:54: error: 'PLAYER' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:54: error: 'p' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:54: error: 'BALIEN' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:54: error: 'aliens' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:54: error: 'WHOLE' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:54: error: 'wormholes' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:54: error: expected primary-expression before '*' token
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:54: error: 'stars' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:54: error: 'estring' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:54: error: 'level' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:54: error: expected primary-expression before 'int'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:54: error: expected primary-expression before 'int'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:54: error: initializer expression list treated as compound expression
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:58: error: variable or field 'load' declared void
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:58: error: 'ROOM' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:58: error: 'array' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:58: error: 'estring' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:58: error: 'level' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:58: error: expected primary-expression before 'int'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:58: error: expected primary-expression before 'int'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:58: error: initializer expression list treated as compound expression
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:61: error: variable or field 'draw_all' declared void
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:61: error: 'ROOM' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:61: error: 'array' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:61: error: 'PLAYER' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:61: error: 'p' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:61: error: 'BALIEN' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:61: error: 'aliens' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:61: error: 'WHOLE' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:61: error: 'wormholes' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:61: error: expected primary-expression before '*' token
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:61: error: 'stars' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:61: error: expected primary-expression before 'int'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:61: error: expected primary-expression before 'int'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:61: error: initializer expression list treated as compound expression
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:65: error: variable or field 'draw_rooms' declared void
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:65: error: 'ROOM' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:65: error: 'array' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:65: error: 'PLAYER' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:65: error: 'p' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:65: error: initializer expression list treated as compound expression
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:70: error: variable or field 'draw_player' declared void
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:70: error: 'PLAYER' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:70: error: 'p' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:74: error: variable or field 'draw_others' declared void
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:74: error: 'ROOM' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:74: error: 'array' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:74: error: 'BALIEN' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:74: error: 'aliens' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:74: error: 'WHOLE' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:74: error: 'wormholes' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:74: error: expected primary-expression before 'int'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:74: error: expected primary-expression before 'int'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:74: error: initializer expression list treated as compound expression
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:82: error: expected constructor, destructor, or type conversion before '(' token
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:159: error: expected constructor, destructor, or type conversion before ';' token
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp: In function 'void introduction(STAR*)':
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:173: error: 'key' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:173: error: 'KEY_ESC' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:179: error: 'buffer' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:179: error: 'intro' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:179: error: 'draw_sprite' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:180: error: 'circlefill' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:181: error: 'KEY_UP' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:183: error: 'KEY_DOWN' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:185: error: 'KEY_ENTER' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:191: error: 'clear_keybuf' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:192: error: 'screen' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:192: error: 'clear' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:193: error: 'keypressed' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:194: error: 'instruct' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:202: error: 'screen' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:202: error: 'blit' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:203: error: 'clear' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:204: error: 'rest' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp: At global scope:
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:208: error: variable or field 'startlevel' declared void
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:208: error: redefinition of 'int startlevel'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:54: error: 'int startlevel' previously defined here
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:208: error: 'ROOM' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:208: error: 'array' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:208: error: 'PLAYER' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:208: error: 'p' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:208: error: 'BALIEN' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:208: error: 'aliens' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:208: error: 'WHOLE' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:208: error: 'wormholes' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:208: error: expected primary-expression before '*' token
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:208: error: 'stars' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:208: error: 'estring' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:208: error: 'level' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:208: error: expected primary-expression before 'int'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:208: error: expected primary-expression before 'int'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:239: error: variable or field 'load' declared void
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:239: error: redefinition of 'int load'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:58: error: 'int load' previously defined here
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:239: error: 'ROOM' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:239: error: 'array' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:239: error: 'estring' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:239: error: 'level' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:239: error: expected primary-expression before 'int'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:239: error: expected primary-expression before 'int'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp: In function 'void draw_stars(STAR*, int)':
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:263: error: 'PLAYER_UP' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:274: error: 'PLAYER_DOWN' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:284: error: 'PLAYER_LEFT' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:294: error: 'PLAYER_RIGHT' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:312: error: 'buffer' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:312: error: 'putpixel' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp: At global scope:
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:316: error: variable or field 'draw_all' declared void
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:316: error: redefinition of 'int draw_all'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:61: error: 'int draw_all' previously defined here
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:316: error: 'ROOM' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:316: error: 'array' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:316: error: 'PLAYER' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:316: error: 'p' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:316: error: 'BALIEN' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:316: error: 'aliens' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:316: error: 'WHOLE' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:316: error: 'wormholes' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:316: error: expected primary-expression before '*' token
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:316: error: 'stars' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:316: error: expected primary-expression before 'int'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:316: error: expected primary-expression before 'int'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:338: error: variable or field 'draw_rooms' declared void
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:338: error: redefinition of 'int draw_rooms'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:65: error: 'int draw_rooms' previously defined here
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:338: error: 'ROOM' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:338: error: 'array' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:338: error: 'PLAYER' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:338: error: 'p' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:372: error: variable or field 'draw_player' declared void
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:372: error: redefinition of 'int draw_player'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:70: error: 'int draw_player' previously defined here
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:372: error: 'PLAYER' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:372: error: 'p' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:421: error: variable or field 'draw_others' declared void
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:421: error: redefinition of 'int draw_others'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:74: error: 'int draw_others' previously defined here
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:421: error: 'ROOM' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:421: error: 'array' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:421: error: 'BALIEN' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:421: error: 'aliens' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:421: error: 'WHOLE' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:421: error: 'wormholes' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:421: error: expected primary-expression before 'int'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:421: error: expected primary-expression before 'int'
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp: In function 'void ingraph()':
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:436: error: 'allegro_init' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:437: error: 'install_timer' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:439: error: 'LOCK_VARIABLE' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:440: error: 'LOCK_FUNCTION' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:441: error: 'updates_per_second' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:441: error: 'BPS_TO_TIMER' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:441: error: 'install_int_ex' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:444: error: 'install_keyboard' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:445: error: 'set_color_depth' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:446: error: 'GFX_AUTODETECT' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:446: error: 'set_gfx_mode' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:447: error: 'buffer' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:447: error: 'create_bitmap' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:448: error: 'bmps' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:448: error: 'pal' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:448: error: 'load_bmp' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:465: error: 'intro' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:466: error: 'instruct' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:467: error: 'set_palette' was not declared in this scope
+/Users/uzbit/Documents/projects/alleg-progs/space-maze/main.cpp:468: error: 'clear' was not declared in this scope

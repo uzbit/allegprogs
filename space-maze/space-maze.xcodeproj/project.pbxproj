@@ -1,0 +1,249 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 42;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		06B59A841405B9180071214F /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 06B59A821405B9180071214F /* main.cpp */; };
+		06B59AA71405BB3B0071214F /* Allegro-5.0.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 06B59AA61405BB3B0071214F /* Allegro-5.0.framework */; };
+		06B59AB71405BBFB0071214F /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 06B59AB61405BBFB0071214F /* Cocoa.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		06B59A7A1405B7E90071214F /* space-maze.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "space-maze.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		06B59A7D1405B7E90071214F /* space-maze-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "space-maze-Info.plist"; sourceTree = "<group>"; };
+		06B59A811405B9180071214F /* game.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = game.h; sourceTree = "<group>"; };
+		06B59A821405B9180071214F /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		06B59A831405B9180071214F /* room.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = room.h; sourceTree = "<group>"; };
+		06B59AA61405BB3B0071214F /* Allegro-5.0.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Allegro-5.0.framework"; path = "/Library/Frameworks/Allegro-5.0.framework"; sourceTree = "<absolute>"; };
+		06B59AB61405BBFB0071214F /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		06B59A781405B7E90071214F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				06B59AA71405BB3B0071214F /* Allegro-5.0.framework in Frameworks */,
+				06B59AB71405BBFB0071214F /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		06B59A681405B7C20071214F = {
+			isa = PBXGroup;
+			children = (
+				06B59A811405B9180071214F /* game.h */,
+				06B59A821405B9180071214F /* main.cpp */,
+				06B59A831405B9180071214F /* room.h */,
+				06B59A7B1405B7E90071214F /* Products */,
+				06B59A7D1405B7E90071214F /* space-maze-Info.plist */,
+				06B59AA61405BB3B0071214F /* Allegro-5.0.framework */,
+				06B59AB61405BBFB0071214F /* Cocoa.framework */,
+			);
+			sourceTree = "<group>";
+		};
+		06B59A7B1405B7E90071214F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				06B59A7A1405B7E90071214F /* space-maze.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		06B59A791405B7E90071214F /* space-maze */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 06B59A801405B7EA0071214F /* Build configuration list for PBXNativeTarget "space-maze" */;
+			buildPhases = (
+				06B59A761405B7E90071214F /* Resources */,
+				06B59A771405B7E90071214F /* Sources */,
+				06B59A781405B7E90071214F /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "space-maze";
+			productName = "space-maze";
+			productReference = 06B59A7A1405B7E90071214F /* space-maze.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		06B59A6A1405B7C20071214F /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 06B59A6D1405B7C20071214F /* Build configuration list for PBXProject "space-maze" */;
+			compatibilityVersion = "Xcode 2.4";
+			hasScannedForEncodings = 0;
+			mainGroup = 06B59A681405B7C20071214F;
+			productRefGroup = 06B59A7B1405B7E90071214F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				06B59A791405B7E90071214F /* space-maze */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		06B59A761405B7E90071214F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		06B59A771405B7E90071214F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				06B59A841405B9180071214F /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		06B59A6B1405B7C20071214F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = stabs;
+				ONLY_ACTIVE_ARCH = YES;
+				SCAN_ALL_SOURCE_FILES_FOR_INCLUDES = YES;
+			};
+			name = Debug;
+		};
+		06B59A6C1405B7C20071214F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = stabs;
+				ONLY_ACTIVE_ARCH = YES;
+				SCAN_ALL_SOURCE_FILES_FOR_INCLUDES = YES;
+			};
+			name = Release;
+		};
+		06B59A7E1405B7EA0071214F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(NATIVE_ARCH)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				GCC_PREFIX_HEADER = "";
+				HEADER_SEARCH_PATHS = (
+					/usr/include,
+					"/Library/Frameworks/Allegro-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroMain-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroAcodec-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroAudio-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroColor-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroDialog-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroFont-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroImage-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroMemfile-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroPhysfs-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroPrimitives-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroTTF-5.0.framework/Versions/Current/Headers",
+				);
+				INFOPLIST_FILE = "space-maze-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				ONLY_ACTIVE_ARCH = YES;
+				OTHER_LDFLAGS = (
+					"-framework",
+					Cocoa,
+					"-framework",
+					Allegro,
+				);
+				PREBINDING = YES;
+				PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR = NO;
+				PRODUCT_NAME = "space-maze";
+				STANDARD_C_PLUS_PLUS_LIBRARY_TYPE = dynamic;
+			};
+			name = Debug;
+		};
+		06B59A7F1405B7EA0071214F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(NATIVE_ARCH)";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				GCC_PREFIX_HEADER = "";
+				HEADER_SEARCH_PATHS = (
+					/usr/include,
+					"/Library/Frameworks/Allegro-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroMain-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroAcodec-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroAudio-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroColor-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroDialog-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroFont-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroImage-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroMemfile-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroPhysfs-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroPrimitives-5.0.framework/Versions/Current/Headers",
+					"/Library/Frameworks/AllegroTTF-5.0.framework/Versions/Current/Headers",
+				);
+				INFOPLIST_FILE = "space-maze-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				ONLY_ACTIVE_ARCH = YES;
+				OTHER_LDFLAGS = (
+					"-framework",
+					Cocoa,
+					"-framework",
+					Allegro,
+				);
+				PREBINDING = YES;
+				PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR = NO;
+				PRODUCT_NAME = "space-maze";
+				STANDARD_C_PLUS_PLUS_LIBRARY_TYPE = dynamic;
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		06B59A6D1405B7C20071214F /* Build configuration list for PBXProject "space-maze" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				06B59A6B1405B7C20071214F /* Debug */,
+				06B59A6C1405B7C20071214F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		06B59A801405B7EA0071214F /* Build configuration list for PBXNativeTarget "space-maze" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				06B59A7E1405B7EA0071214F /* Debug */,
+				06B59A7F1405B7EA0071214F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 06B59A6A1405B7C20071214F /* Project object */;
+}
