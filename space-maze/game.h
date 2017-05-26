@@ -1,7 +1,7 @@
 #ifndef _GAME_H
 #define _GAME_H
 #include<time.h>
-#include<allegro5/allegro.h>
+#include<allegro.h>
 #include"room.h"
 
 #define WALL_LEN 30

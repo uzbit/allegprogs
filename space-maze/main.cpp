@@ -3,7 +3,7 @@
 //This is a maze game where you fly in a little space
 //ship and try to get to the end of the maze with out
 //getting dead
-#include<allegro5/allegro.h>
+#include<allegro.h>
 #include<iostream>
 #include<stdio.h>
 #include<unistd.h>
@@ -82,7 +82,7 @@ void ticker()
 END_OF_FUNCTION(ticker)
 
 
-void main(int argc,char **argv)
+int main(int argc,char **argv)
 {
    estring level="./maps/map1.map";
    int numlevel=1,count=0;
@@ -155,6 +155,7 @@ void main(int argc,char **argv)
    for(int i=0;i<SW/WALL_LEN;i++)
       delete [] array[i];
    delete [] array;
+   return 0;
 }
 END_OF_MAIN();
 
@@ -443,7 +444,7 @@ void ingraph()
    
    install_keyboard();
    set_color_depth(8);
-   set_gfx_mode(GFX_AUTODETECT,SW,SH,0,0);
+   set_gfx_mode(GFX_AUTODETECT_WINDOWED,SW,SH,0,0);
    buffer=create_bitmap(SW,SH);
    bmps[0]=load_bmp("./bmps/top.bmp",pal);
    bmps[1]=load_bmp("./bmps/right.bmp",pal);
